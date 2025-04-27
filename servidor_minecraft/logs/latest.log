@@ -57,3 +57,14 @@
 [27Apr2025 17:46:58.709] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [27Apr2025 17:46:58.717] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'death-dis.gl.at.ply.gg:4010'
 [27Apr2025 17:46:58.718] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 4010
+[27Apr2025 18:03:59.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[27Apr2025 18:03:59.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Apr2025 18:03:59.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Apr2025 18:03:59.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Apr2025 18:04:00.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Apr2025 18:04:01.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Apr2025 18:04:01.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Apr2025 18:04:01.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Apr2025 18:04:01.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Apr2025 18:04:01.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Apr2025 18:04:01.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
