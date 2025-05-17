@@ -1424,6 +1424,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-05-17 17:09:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/mimic_scroll": {
     "criteria": {
       "has_journal": "2025-05-17 15:54:05 +0000"
@@ -1733,6 +1739,12 @@
   "securitycraft:recipes/misc/speed_module": {
     "criteria": {
       "has_iron": "2025-05-17 16:13:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-17 17:15:13 +0000"
     },
     "done": true
   },
@@ -3655,6 +3667,12 @@
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2025-05-17 16:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-17 17:15:13 +0000"
     },
     "done": true
   },
