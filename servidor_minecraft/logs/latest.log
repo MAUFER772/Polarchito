@@ -786,3 +786,292 @@
 [17May2025 16:04:10.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CHIQUITO> quien es el negro
 [17May2025 16:04:23.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Topy> ñandy
 [17May2025 16:04:41.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHIQUITO has made the advancement [Gone Bananas!]
+[17May2025 16:04:48.295] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:04:48.295] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:04:48.296] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:05:18.695] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:05:18.696] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:05:23.244] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:05:23.295] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:05:23.296] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:05:23.296] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:05:23.297] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:05:23.346] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:05:23.347] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:05:23.347] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:05:23.347] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:05:23.396] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:05:23.396] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:05:26.845] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:05:26.846] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:05:26.846] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:05:54.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy has made the advancement [Getting an Upgrade]
+[17May2025 16:06:13.195] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:06:13.195] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:06:13.196] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:06:13.196] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:07:25.696] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:07:25.696] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:07:25.697] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:07:25.697] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:07:41.885] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 16:07:41.886] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 16:07:41.887] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 16:07:41.887] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 16:07:41.887] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 16:07:42.218] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 16:07:42.219] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 16:07:42.219] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 16:07:42.220] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 16:07:44.343] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 16:07:44.344] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 16:07:44.344] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 16:07:44.344] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 16:07:46.084] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 16:07:46.185] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 16:07:46.185] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 16:07:46.186] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 16:07:46.186] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 16:08:13.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy was slain by Panderodus
+[17May2025 16:08:15.219] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 16:08:15.247] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:15.247] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:15.248] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:19.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> xd
+[17May2025 16:08:30.646] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:30.647] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:30.647] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:30.647] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 16:08:30.694] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:30.695] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:30.695] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:31.895] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:35.496] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:35.497] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:35.497] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:35.497] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:39.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> chiquito?
+[17May2025 16:08:42.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:42.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:42.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:42.194] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:42.194] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:42.194] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:42.195] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:sea_sludge_natural_spawn but it was marked as removed already
+[17May2025 16:08:42.245] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:42.246] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:42.246] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:42.295] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_natural_spawn but it was marked as removed already
+[17May2025 16:08:42.296] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_natural_spawn but it was marked as removed already
+[17May2025 16:08:46.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CHIQUITO> habla
+[17May2025 16:08:48.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> xd
+[17May2025 16:08:52.996] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:52.997] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:52.997] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:52.998] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:53.046] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:53.046] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:53.047] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:53.047] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:53.095] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:53.095] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:53.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:53.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:53.147] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:53.147] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:53.148] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:53.148] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:53.212] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:53.213] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:53.213] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:53.213] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:53.247] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:53.247] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:53.247] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:53.298] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:53.298] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:53.299] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:56.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> pense que te iban a reportar xd
+[17May2025 16:08:59.551] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:08:59.552] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:09:43.996] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:09:43.996] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:09:43.996] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:09:43.997] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:09:49.926] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 16:09:49.927] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 16:09:49.927] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 16:09:49.943] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 16:09:49.943] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 16:09:49.943] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 16:09:53.190] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 16:09:53.190] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 16:09:53.191] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 16:09:53.191] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 16:09:53.274] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 16:10:01.346] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:01.347] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:01.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:01.396] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:01.396] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:01.397] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:06.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> xd
+[17May2025 16:10:09.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy has made the advancement [Monster Hunter]
+[17May2025 16:10:16.045] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:16.046] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:16.046] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:16.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy]
+[17May2025 16:10:30.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> ven ps
+[17May2025 16:10:32.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> chiquitos
+[17May2025 16:10:54.599] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:54.600] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:54.600] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:54.601] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:54.647] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:54.648] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:54.648] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:54.648] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:54.695] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:54.696] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:54.746] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:54.746] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:54.747] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:56.446] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:56.446] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:56.446] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:56.495] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:56.496] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:56.496] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:56.496] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:56.595] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:56.595] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:56.596] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:56.596] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:57.746] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:57.746] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:57.747] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:57.747] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:57.795] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:57.795] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:57.795] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:57.796] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:57.846] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:57.846] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:57.847] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:57.847] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:58.046] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:58.046] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:58.046] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:58.047] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:58.095] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:58.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:58.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:58.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:58.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:58.297] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:58.297] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:58.297] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:10:58.298] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:11:03.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:11:03.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:11:03.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:11:03.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:11:29.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CHIQUITO> casi muer0
+[17May2025 16:11:29.548] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:11:29.549] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:11:29.549] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:11:29.550] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:11:41.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHIQUITO was slain by Zombie
+[17May2025 16:11:43.161] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 16:11:43.162] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:maka_maka_natural_spawn but it was marked as removed already
+[17May2025 16:11:44.895] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:11:44.895] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:11:44.896] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:11:44.896] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:11:44.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:11:44.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:11:44.946] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:11:44.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> xd
+[17May2025 16:11:44.996] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:11:44.996] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:11:44.996] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:11:45.045] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:11:45.045] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:11:45.045] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:11:45.046] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:12:42.095] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:12:42.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:12:42.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:12:42.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:12:44.995] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:12:44.996] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:12:44.996] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:12:45.046] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:12:45.046] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:12:45.046] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:12:45.047] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:12:45.095] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:12:45.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:12:45.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:12:45.194] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:12:45.194] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:12:45.195] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:12:45.195] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:12:45.296] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:12:46.045] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:12:46.046] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:12:46.046] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:24.346] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:24.346] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:24.346] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:24.347] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:27.296] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:27.296] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:27.297] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:27.297] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:27.348] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:27.348] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:27.348] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:27.348] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:27.495] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:27.495] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:27.495] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:41.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Topy> ..
+[17May2025 16:13:44.746] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:45.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:45.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:46.045] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:46.045] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:46.045] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:46.046] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:46.345] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:46.346] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:46.346] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:46.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:47.245] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:47.445] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:47.446] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:47.596] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:47.646] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:47.646] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:47.646] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:47.695] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:47.695] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:47.747] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:47.747] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:47.748] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:47.998] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:47.999] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:13:53.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy has made the advancement [Acquire Hardware]
+[17May2025 16:13:55.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> que?
+[17May2025 16:13:58.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy has made the advancement [Isn't It Iron Pick]
+[17May2025 16:14:01.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy has made the advancement [Diamonds!]
+[17May2025 16:14:09.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> asus
+[17May2025 16:14:30.996] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:14:30.996] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:14:30.997] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:14:30.997] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:14:31.045] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:14:31.046] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:14:31.046] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 16:14:31.046] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
