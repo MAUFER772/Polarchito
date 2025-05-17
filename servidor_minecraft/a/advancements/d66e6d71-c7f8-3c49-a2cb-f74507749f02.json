@@ -1585,11 +1585,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-05-17 17:39:24 +0000",
       "minecraft:cherry_grove": "2025-05-17 16:59:28 +0000",
+      "minecraft:birch_forest": "2025-05-17 17:36:14 +0000",
+      "minecraft:beach": "2025-05-17 17:36:41 +0000",
       "minecraft:mangrove_swamp": "2025-05-17 16:07:54 +0000",
       "minecraft:river": "2025-05-17 16:09:44 +0000",
       "minecraft:forest": "2025-05-17 16:58:18 +0000",
       "minecraft:lush_caves": "2025-05-17 16:12:57 +0000",
+      "minecraft:ocean": "2025-05-17 17:37:38 +0000",
       "minecraft:windswept_savanna": "2025-05-17 15:54:05 +0000",
       "minecraft:plains": "2025-05-17 16:59:16 +0000"
     },
@@ -3914,6 +3918,12 @@
   "iceandfire:recipes/tools/dragonbone_hoe": {
     "criteria": {
       "has_item": "2025-05-17 17:28:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-05-17 17:36:10 +0000"
     },
     "done": true
   },
