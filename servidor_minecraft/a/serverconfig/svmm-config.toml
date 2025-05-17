@@ -17,7 +17,7 @@
 	#Whether or not to stop the vein mining when the tool is about to break
 	stop_when_about_to_break_tool = true
 	#Whether or not to teleport the mined items to the player
-	teleport_items_to_player = true
+	teleport_items_to_player = false
 	#Whether or not to allow moderators to modify the config at runtime
 	runtime_config_edit_disabled = false
 	#The default condition for when the mod triggers that new players will have
