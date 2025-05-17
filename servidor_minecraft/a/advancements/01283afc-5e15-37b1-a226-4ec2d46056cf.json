@@ -1686,6 +1686,7 @@
       "minecraft:lush_caves": "2025-05-17 16:12:58 +0000",
       "minecraft:ocean": "2025-05-17 17:37:38 +0000",
       "minecraft:windswept_savanna": "2025-05-17 03:26:16 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-17 17:46:24 +0000",
       "minecraft:plains": "2025-05-17 16:59:56 +0000"
     },
     "done": false
@@ -3274,6 +3275,12 @@
   "iceandfire:recipes/combat/dragonbone_bow": {
     "criteria": {
       "has_item": "2025-05-17 17:28:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-17 17:45:58 +0000"
     },
     "done": true
   },

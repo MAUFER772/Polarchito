@@ -11985,3 +11985,401 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [17May2025 17:45:50.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete a
 [17May2025 17:45:56.097] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
 [17May2025 17:45:58.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 has made the advancement [Sea? Not a Problem]
+[17May2025 17:46:58.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was slain by Deepling Brute
+[17May2025 17:47:00.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy has completed the challenge [Great View From Up Here]
+[17May2025 17:47:03.699] [Server thread/DEBUG] [twilightforest/]: Player Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf) respawned and received items held in storage
+[17May2025 17:47:03.704] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:sea_sludge_natural_spawn but it was marked as removed already
+[17May2025 17:47:05.995] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 17:47:05.995] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 17:47:13.244] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:sea_sludge_natural_spawn but it was marked as removed already
+[17May2025 17:47:19.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Teleported Maufer772 to Topy]
+[17May2025 17:47:23.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 was impaled by Deepling Brute
+[17May2025 17:47:30.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy was slain by Deepling Brute
+[17May2025 17:47:31.697] [Server thread/DEBUG] [twilightforest/]: Player Maufer772 (01283afc-5e15-37b1-a226-4ec2d46056cf) respawned and received items held in storage
+[17May2025 17:47:31.702] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 17:47:31.702] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 17:47:31.702] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 17:47:31.702] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 17:47:31.703] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_natural_spawn but it was marked as removed already
+[17May2025 17:47:31.703] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:sea_sludge_natural_spawn but it was marked as removed already
+[17May2025 17:47:31.703] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:sea_sludge_natural_spawn but it was marked as removed already
+[17May2025 17:47:33.332] [Server thread/DEBUG] [twilightforest/]: Player Topy (d66e6d71-c7f8-3c49-a2cb-f74507749f02) respawned and received items held in storage
+[17May2025 17:48:10.193] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:maka_maka_natural_spawn but it was marked as removed already
+[17May2025 17:48:18.995] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 17:48:18.995] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 17:48:18.995] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 17:48:18.995] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 17:48:18.995] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:18.995] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:18.996] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:18.996] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:18.996] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 17:48:18.996] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 17:48:18.996] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 17:48:19.044] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 17:48:19.044] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 17:48:19.045] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 17:48:20.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy was slain by Deepling Brute
+[17May2025 17:48:22.245] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.245] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.245] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.245] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.294] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.294] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.294] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.294] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.345] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.345] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.345] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.346] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.394] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.443] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.443] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.444] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.444] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.496] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.496] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.496] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.496] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.545] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.545] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.594] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.594] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.594] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.594] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.645] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.645] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.645] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:22.645] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:38.060] [Server thread/DEBUG] [twilightforest/]: Player Topy (d66e6d71-c7f8-3c49-a2cb-f74507749f02) respawned and received items held in storage
+[17May2025 17:48:50.845] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:maka_maka_natural_spawn but it was marked as removed already
+[17May2025 17:48:50.845] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_natural_spawn but it was marked as removed already
+[17May2025 17:48:50.846] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 17:48:50.846] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 17:48:50.894] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 17:48:50.894] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 17:48:50.894] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 17:48:50.894] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 17:48:50.944] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:maka_maka_natural_spawn but it was marked as removed already
+[17May2025 17:48:50.944] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 17:48:50.944] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 17:48:50.944] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 17:48:56.493] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:56.493] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:56.493] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:48:56.493] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:07.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> xd
+[17May2025 17:49:10.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Topy> xd
+[17May2025 17:49:13.693] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:13.694] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:13.694] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:13.694] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:14.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Topy> aaa
+[17May2025 17:49:17.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Topy: Teleported Topy to Maufer772]
+[17May2025 17:49:40.294] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:40.294] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:40.294] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:40.294] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:40.344] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:40.345] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:40.345] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:40.345] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:40.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:40.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:40.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:40.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:40.443] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:40.443] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:40.444] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:40.444] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:40.493] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:40.494] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:40.494] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:40.494] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:40.545] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:40.545] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:40.545] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:40.545] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:48.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Topy> pip4
+[17May2025 17:49:49.245] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:52.893] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:52.893] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:52.894] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:52.894] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:52.944] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:52.944] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:52.944] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:52.944] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:52.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:52.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:52.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:52.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:53.044] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:53.044] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:53.044] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:53.044] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:53.095] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:53.095] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:53.095] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:49:53.095] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:01.343] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:01.343] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:01.343] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:01.343] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:01.393] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:01.393] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:01.393] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:01.394] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:01.445] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:06.244] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:06.244] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:06.244] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:06.245] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:06.293] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:06.293] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:06.293] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:06.294] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:06.345] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:06.345] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:06.345] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:06.345] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:12.694] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 17:50:12.694] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 17:50:12.694] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 17:50:15.095] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:maka_maka_natural_spawn but it was marked as removed already
+[17May2025 17:50:15.095] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:maka_maka_natural_spawn but it was marked as removed already
+[17May2025 17:50:15.095] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 17:50:15.095] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 17:50:37.894] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:37.894] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:37.894] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:37.894] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:37.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:37.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:37.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:37.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:50:50.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save a
+[17May2025 17:50:50.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete a
+[17May2025 17:50:59.194] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_natural_spawn but it was marked as removed already
+[17May2025 17:51:05.895] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:05.895] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:05.895] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:05.896] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:05.944] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:05.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:05.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:05.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:05.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:05.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:05.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:06.044] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:06.044] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:06.044] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:06.044] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:06.094] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:06.095] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:06.095] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:06.095] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:09.544] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:09.544] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:09.544] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.194] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.195] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.195] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.195] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.244] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.244] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.244] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.244] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.295] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.295] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.295] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.295] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.345] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.345] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.345] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.345] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.393] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.393] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.393] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.394] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.444] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.445] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.495] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.495] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.495] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.495] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.544] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.544] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.544] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.544] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.594] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.594] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.595] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.595] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.643] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.694] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.695] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.695] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.695] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.743] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.743] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.743] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.743] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.793] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.793] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.793] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.793] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:10.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:12.444] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:12.445] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:12.445] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:12.445] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:12.494] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:12.495] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:12.495] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:12.495] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:12.894] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:12.895] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:12.895] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:12.895] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:12.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:12.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:12.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:12.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:12.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.043] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.043] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.043] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.043] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.093] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.094] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.094] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.094] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.143] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.143] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.143] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.143] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.193] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.193] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.193] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.194] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.243] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.243] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.243] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.243] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.294] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.295] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.295] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.343] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.343] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.343] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.343] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.394] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.394] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.394] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.394] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.443] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.443] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.443] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.443] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.494] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.494] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.495] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.495] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.544] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.544] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.594] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.594] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.594] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.594] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.644] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.644] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.644] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.644] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.694] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.694] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.694] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.694] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.743] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.744] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.744] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.744] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.794] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.794] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.794] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.794] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.844] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.844] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.896] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.896] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.896] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:13.896] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:18.694] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:18.694] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:18.694] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:18.694] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:28.693] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:28.693] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:28.693] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:28.693] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:28.743] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:28.743] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:28.743] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:28.743] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:28.794] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:28.794] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:28.794] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:28.794] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:28.842] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:28.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:28.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:28.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:28.895] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:28.895] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:28.895] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:28.895] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:28.944] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:28.944] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:28.944] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:28.944] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:28.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:28.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:28.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:28.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:glow_fish but it was marked as removed already
+[17May2025 17:51:42.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Topy lost connection: Disconnected
+[17May2025 17:51:42.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Topy left the game
+[17May2025 17:51:42.251] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Topy
+[17May2025 17:51:42.251] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Topy
+[17May2025 17:51:42.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[17May2025 17:51:42.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[17May2025 17:51:42.950] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Maufer772
+[17May2025 17:51:42.950] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Maufer772
+[17May2025 17:51:50.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17May2025 17:51:50.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17May2025 17:51:50.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17May2025 17:51:50.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17May2025 17:51:50.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[a]'/minecraft:overworld
+[17May2025 17:51:50.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[a]'/minecraft:the_nether
+[17May2025 17:51:50.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[a]'/twilightforest:twilight_forest
+[17May2025 17:51:50.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[a]'/minecraft:the_end
+[17May2025 17:51:50.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[a]'/witherstormmod:bowels
+[17May2025 17:51:50.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save a
+[17May2025 17:51:50.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete a
+[17May2025 17:51:50.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (a): All chunks are saved
+[17May2025 17:51:50.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17May2025 17:51:50.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[17May2025 17:51:50.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17May2025 17:51:50.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[17May2025 17:51:50.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17May2025 17:51:50.679] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[17May2025 17:51:50.680] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
