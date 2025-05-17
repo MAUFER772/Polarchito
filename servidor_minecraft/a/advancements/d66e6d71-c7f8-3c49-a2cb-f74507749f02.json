@@ -653,6 +653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-17 17:00:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-17 16:19:51 +0000",
@@ -1016,6 +1022,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-05-17 17:00:31 +0000"
+    },
+    "done": true
+  },
   "terramity:terramity_parent_advancement": {
     "criteria": {
       "terramity_parent_advancement_0": "2025-05-17 15:54:05 +0000"
@@ -1031,6 +1043,12 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_moss_block": {
     "criteria": {
       "has_journal": "2025-05-17 15:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-17 17:00:28 +0000"
     },
     "done": true
   },
@@ -1130,6 +1148,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-17 17:00:28 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/conjuration_essence_to_soul_sand": {
     "criteria": {
       "has_journal": "2025-05-17 15:54:05 +0000"
@@ -1205,6 +1229,12 @@
   "ars_nouveau:recipes/misc/ritual_forestation": {
     "criteria": {
       "has_journal": "2025-05-17 15:54:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-17 17:00:27 +0000"
     },
     "done": true
   },
@@ -1811,6 +1841,12 @@
   "ars_nouveau:recipes/misc/purple_sbed": {
     "criteria": {
       "has_journal": "2025-05-17 15:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-05-17 17:01:03 +0000"
     },
     "done": true
   },
@@ -2720,6 +2756,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-05-17 17:00:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-17 16:09:35 +0000"
@@ -2903,6 +2945,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-05-17 16:13:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-05-17 17:00:50 +0000"
     },
     "done": true
   },
@@ -3490,10 +3538,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-05-17 16:59:28 +0000",
       "minecraft:mangrove_swamp": "2025-05-17 16:07:54 +0000",
       "minecraft:river": "2025-05-17 16:09:44 +0000",
+      "minecraft:forest": "2025-05-17 16:58:18 +0000",
       "minecraft:lush_caves": "2025-05-17 16:12:57 +0000",
-      "minecraft:windswept_savanna": "2025-05-17 15:54:05 +0000"
+      "minecraft:windswept_savanna": "2025-05-17 15:54:05 +0000",
+      "minecraft:plains": "2025-05-17 16:59:16 +0000"
     },
     "done": false
   },
@@ -3670,6 +3721,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-05-17 16:25:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-05-17 17:00:28 +0000"
     },
     "done": true
   },
