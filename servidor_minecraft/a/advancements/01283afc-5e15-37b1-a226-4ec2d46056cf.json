@@ -2200,7 +2200,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-17 15:07:12 +0000",
-      "minecraft:spider": "2025-05-17 15:00:10 +0000"
+      "minecraft:spider": "2025-05-17 15:00:10 +0000",
+      "minecraft:creeper": "2025-05-17 15:29:15 +0000"
     },
     "done": false
   },
@@ -2399,6 +2400,12 @@
   "securitycraft:recipes/misc/reinforced_birch_fence": {
     "criteria": {
       "has_stick": "2025-05-17 14:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-17 15:29:17 +0000"
     },
     "done": true
   },
@@ -2606,6 +2613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-05-17 15:28:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/earplugs": {
     "criteria": {
       "has_item": "2025-05-17 14:58:12 +0000"
@@ -2732,6 +2745,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-05-17 15:28:41 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/food/boiled_pickerelweed": {
     "criteria": {
       "has_pickerelweed": "2025-05-17 15:19:10 +0000"
@@ -2804,6 +2823,12 @@
       "chicken": "2025-05-17 15:14:56 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-17 15:29:17 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {

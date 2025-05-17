@@ -7517,3 +7517,49 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [17May2025 15:31:12.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> xd
 [17May2025 15:31:34.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CHIQUITO> pero alguien esta a un corazon de vida
 [17May2025 15:31:39.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> si
+[17May2025 15:32:10.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> hasta que hora puedes steven?
+[17May2025 15:32:22.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CHIQUITO> hasta las 12
+[17May2025 15:32:26.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> asus
+[17May2025 15:32:35.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CHIQUITO> y tu
+[17May2025 15:32:39.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> igual
+[17May2025 15:32:42.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save a
+[17May2025 15:32:42.642] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete a
+[17May2025 15:32:51.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CHIQUITO> mi merma
+[17May2025 15:33:00.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CHIQUITO> los voy a hacer
+[17May2025 15:33:00.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> escucha pana
+[17May2025 15:33:11.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHIQUITO fell from a high place
+[17May2025 15:33:13.506] [Server thread/DEBUG] [twilightforest/]: Player CHIQUITO (9898a07b-aa46-3557-9301-40d6b06f6a7e) respawned and received items held in storage
+[17May2025 15:33:13.511] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 15:33:13.531] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 15:33:29.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> voy a configurar el chat de voz, sal del minecraft y despues te aviso para entrar ok?
+[17May2025 15:33:40.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CHIQUITO> okey
+[17May2025 15:33:40.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maufer772> demorare unos 10 minutos
+[17May2025 15:33:45.746] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[17May2025 15:33:45.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[17May2025 15:33:45.746] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Maufer772
+[17May2025 15:33:45.746] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Maufer772
+[17May2025 15:33:45.836] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 15:33:45.837] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_natural_spawn but it was marked as removed already
+[17May2025 15:33:54.187] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CHIQUITO lost connection: Disconnected
+[17May2025 15:33:54.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHIQUITO left the game
+[17May2025 15:33:54.187] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of CHIQUITO
+[17May2025 15:33:54.187] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CHIQUITO
+[17May2025 15:35:10.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17May2025 15:35:10.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17May2025 15:35:10.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17May2025 15:35:10.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17May2025 15:35:10.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[a]'/minecraft:overworld
+[17May2025 15:35:11.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[a]'/twilightforest:twilight_forest
+[17May2025 15:35:11.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[a]'/witherstormmod:bowels
+[17May2025 15:35:11.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[a]'/minecraft:the_end
+[17May2025 15:35:11.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[a]'/minecraft:the_nether
+[17May2025 15:35:11.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save a
+[17May2025 15:35:11.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete a
+[17May2025 15:35:11.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (a): All chunks are saved
+[17May2025 15:35:11.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[17May2025 15:35:11.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[17May2025 15:35:11.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17May2025 15:35:11.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17May2025 15:35:11.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17May2025 15:35:11.131] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[17May2025 15:35:11.132] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
