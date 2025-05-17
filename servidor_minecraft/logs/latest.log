@@ -578,3 +578,68 @@
 [17May2025 14:41:48.583] [Worker-Main-25/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [17May2025 14:41:48.583] [Worker-Main-25/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [17May2025 14:41:48.584] [Worker-Main-25/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 14:43:04.583] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_natural_spawn but it was marked as removed already
+[17May2025 14:43:04.584] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 14:43:04.585] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 14:43:04.585] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 14:43:08.903] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 14:43:08.930] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 14:43:08.931] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 14:43:08.931] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[17May2025 14:44:11.831] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:sea_sludge_natural_spawn but it was marked as removed already
+[17May2025 14:44:11.831] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 14:44:11.882] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_natural_spawn but it was marked as removed already
+[17May2025 14:45:43.031] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 14:45:43.031] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 14:45:43.032] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 14:47:23.681] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 14:47:23.682] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 14:47:41.280] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 14:47:41.281] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 14:47:41.281] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 14:47:41.281] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 14:47:41.331] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 14:47:41.331] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 14:47:41.332] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 14:47:41.332] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:sea_sludge_natural_spawn but it was marked as removed already
+[17May2025 14:47:41.380] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 14:47:41.380] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 14:48:36.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set the time to 1000]
+[17May2025 14:48:40.930] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 14:48:40.931] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 14:48:40.931] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:sea_sludge_natural_spawn but it was marked as removed already
+[17May2025 14:48:40.931] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 14:48:40.981] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 14:48:40.981] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 14:48:40.982] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 14:48:40.982] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[17May2025 14:48:41.030] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_natural_spawn but it was marked as removed already
+[17May2025 14:48:41.031] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_natural_spawn but it was marked as removed already
+[17May2025 14:48:41.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maufer772: Set own game mode to Survival Mode]
+[17May2025 14:51:08.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maufer772 lost connection: Disconnected
+[17May2025 14:51:08.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maufer772 left the game
+[17May2025 14:51:08.039] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Maufer772
+[17May2025 14:51:33.092] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHIQUITO[/127.146.142.11:33285] logged in with entity id 4326 at (0.5, 64.0, 10.5)
+[17May2025 14:51:33.105] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[17May2025 14:51:33.174] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./a/serverconfig/svmm-player-configs/9898a07b-aa46-3557-9301-40d6b06f6a7e.toml is not correct. Correcting
+[17May2025 14:51:33.175] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key svmm-player-9898a07b-aa46-3557-9301-40d6b06f6a7e was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17May2025 14:51:33.175] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key svmm-player-9898a07b-aa46-3557-9301-40d6b06f6a7e.self-config was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17May2025 14:51:33.175] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key svmm-player-9898a07b-aa46-3557-9301-40d6b06f6a7e.self-config.trigger_when was corrected from null to its default, shift_not_held. 
+[17May2025 14:51:33.176] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key svmm-player-9898a07b-aa46-3557-9301-40d6b06f6a7e.toggles was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17May2025 14:51:33.176] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key svmm-player-9898a07b-aa46-3557-9301-40d6b06f6a7e.toggles.mod_disabled was corrected from null to its default, false. 
+[17May2025 14:51:33.176] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key svmm-player-9898a07b-aa46-3557-9301-40d6b06f6a7e.toggles.giant_vein_mining_disabled was corrected from null to its default, false. 
+[17May2025 14:51:33.176] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key svmm-player-9898a07b-aa46-3557-9301-40d6b06f6a7e.restrictions was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17May2025 14:51:33.176] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key svmm-player-9898a07b-aa46-3557-9301-40d6b06f6a7e.restrictions.mod_restricted was corrected from null to its default, false. 
+[17May2025 14:51:33.177] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key svmm-player-9898a07b-aa46-3557-9301-40d6b06f6a7e.restrictions.giant_vein_mining_restricted was corrected from null to its default, false. 
+[17May2025 14:51:33.177] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key svmm-player-9898a07b-aa46-3557-9301-40d6b06f6a7e.restrictions.tunneling_restricted was corrected from null to its default, false. 
+[17May2025 14:51:33.177] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key svmm-player-9898a07b-aa46-3557-9301-40d6b06f6a7e.restrictions.force_restricted was corrected from null to its default, true. 
+[17May2025 14:51:33.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHIQUITO joined the game
+[17May2025 14:51:33.216] [Server thread/INFO] [Jade/]: Syncing config to CHIQUITO (9898a07b-aa46-3557-9301-40d6b06f6a7e)
+[17May2025 14:51:33.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHIQUITO has made the advancement [Ice and Fire]
+[17May2025 14:51:33.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHIQUITO has made the advancement [Terramity]
+[17May2025 14:51:34.848] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CHIQUITO (18)
+[17May2025 14:51:34.848] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CHIQUITO
+[17May2025 14:51:41.331] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 14:51:41.331] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 14:51:41.332] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
+[17May2025 14:51:41.332] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:megastar_natural_spawn but it was marked as removed already
