@@ -2059,6 +2059,7 @@
     "criteria": {
       "glow_berries": "2025-05-17 16:11:14 +0000",
       "salmon": "2025-05-17 15:20:19 +0000",
+      "melon_slice": "2025-05-17 16:36:09 +0000",
       "carrot": "2025-05-17 14:58:24 +0000"
     },
     "done": false
@@ -2472,6 +2473,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-05-17 16:36:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-05-17 16:13:00 +0000"
@@ -2493,6 +2500,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-05-17 16:09:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-05-17 16:36:03 +0000"
     },
     "done": true
   },
@@ -2532,6 +2545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-17 16:33:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-17 16:05:15 +0000"
@@ -2565,6 +2584,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-05-17 16:05:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-17 16:36:03 +0000"
     },
     "done": true
   },
@@ -2607,6 +2632,18 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-05-17 16:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-17 16:33:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-17 16:36:03 +0000"
     },
     "done": true
   },
@@ -2655,6 +2692,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-05-17 16:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-17 16:33:01 +0000"
     },
     "done": true
   },
@@ -2709,6 +2752,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-05-17 16:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-17 16:36:03 +0000"
     },
     "done": true
   },
