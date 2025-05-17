@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-17 15:19:45 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-17 14:51:33 +0000"
@@ -804,6 +810,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-17 15:19:45 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/blank_parchment": {
     "criteria": {
       "has_journal": "2025-05-17 14:51:33 +0000"
@@ -930,6 +942,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-17 15:19:28 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-17 14:51:33 +0000"
@@ -1011,6 +1029,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2025-05-17 14:51:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-17 15:19:28 +0000"
     },
     "done": true
   },
@@ -1308,6 +1332,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-17 15:19:45 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/fire_essence_to_charge": {
     "criteria": {
       "has_journal": "2025-05-17 14:51:33 +0000"
@@ -1500,6 +1530,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-17 15:19:45 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2025-05-17 14:51:33 +0000"
@@ -1605,6 +1641,12 @@
   "ars_nouveau:recipes/misc/smooth_sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2025-05-17 14:51:33 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/food/golden_apple_stew": {
+    "criteria": {
+      "has_cure_base": "2025-05-17 15:19:28 +0000"
     },
     "done": true
   },
@@ -1758,6 +1800,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-17 15:19:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-05-17 14:56:05 +0000"
@@ -1878,6 +1926,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-17 15:19:45 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/dowsing_rod": {
     "criteria": {
       "has_journal": "2025-05-17 14:51:33 +0000"
@@ -1899,6 +1953,12 @@
   "ars_nouveau:recipes/building_blocks/stripped_blue_archwood_wood": {
     "criteria": {
       "has_journal": "2025-05-17 14:51:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-17 15:19:28 +0000"
     },
     "done": true
   },
@@ -2216,6 +2276,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-05-17 15:18:51 +0000",
+      "minecraft:swamp": "2025-05-17 15:18:58 +0000",
       "minecraft:windswept_savanna": "2025-05-17 14:51:34 +0000"
     },
     "done": false
@@ -2270,6 +2332,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "salmon": "2025-05-17 15:20:19 +0000",
       "carrot": "2025-05-17 14:58:24 +0000"
     },
     "done": false
